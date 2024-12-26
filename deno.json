@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@std/assert": "jsr:@std/assert",
+    "@std/collections": "jsr:@std/collections"
+  }
+}
